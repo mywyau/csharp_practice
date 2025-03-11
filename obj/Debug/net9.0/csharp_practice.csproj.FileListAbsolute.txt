@@ -1,0 +1,15 @@
+/Users/michaelyau/self_projects/csharp_practice/bin/Debug/net9.0/csharp_practice
+/Users/michaelyau/self_projects/csharp_practice/bin/Debug/net9.0/csharp_practice.deps.json
+/Users/michaelyau/self_projects/csharp_practice/bin/Debug/net9.0/csharp_practice.runtimeconfig.json
+/Users/michaelyau/self_projects/csharp_practice/bin/Debug/net9.0/csharp_practice.dll
+/Users/michaelyau/self_projects/csharp_practice/bin/Debug/net9.0/csharp_practice.pdb
+/Users/michaelyau/self_projects/csharp_practice/obj/Debug/net9.0/csharp_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelyau/self_projects/csharp_practice/obj/Debug/net9.0/csharp_practice.AssemblyInfoInputs.cache
+/Users/michaelyau/self_projects/csharp_practice/obj/Debug/net9.0/csharp_practice.AssemblyInfo.cs
+/Users/michaelyau/self_projects/csharp_practice/obj/Debug/net9.0/csharp_practice.csproj.CoreCompileInputs.cache
+/Users/michaelyau/self_projects/csharp_practice/obj/Debug/net9.0/csharp_practice.sourcelink.json
+/Users/michaelyau/self_projects/csharp_practice/obj/Debug/net9.0/csharp_practice.dll
+/Users/michaelyau/self_projects/csharp_practice/obj/Debug/net9.0/refint/csharp_practice.dll
+/Users/michaelyau/self_projects/csharp_practice/obj/Debug/net9.0/csharp_practice.pdb
+/Users/michaelyau/self_projects/csharp_practice/obj/Debug/net9.0/csharp_practice.genruntimeconfig.cache
+/Users/michaelyau/self_projects/csharp_practice/obj/Debug/net9.0/ref/csharp_practice.dll
